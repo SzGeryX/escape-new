@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/buttonBg.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/buttonBg.xnb","TextureProcessor","Texture2DContent",246,16469,0.1067074
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/guard.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/guard.xnb","TextureProcessor","Texture2DContent",871,4181,0.0035596
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/guardanimation.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/guardanimation.xnb","TextureProcessor","Texture2DContent",1472,24661,0.0071106
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/healthPoti.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/healthPoti.xnb","TextureProcessor","Texture2DContent",430,4181,0.0032022
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/kard.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/kard.xnb","TextureProcessor","Texture2DContent",1917,102485,0.006674
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/maincharater.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/maincharater.xnb","TextureProcessor","Texture2DContent",758,4181,0.0023722
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/playeranimation.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/playeranimation.xnb","TextureProcessor","Texture2DContent",1334,16469,0.0024276
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/Tileset.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/Tileset.xnb","TextureProcessor","Texture2DContent",936447,5324885,0.1860607
+"c:/Users/Gergo/Documents/escape-master/Content/Characters/wizard.png","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/wizard.xnb","TextureProcessor","Texture2DContent",1155,4181,0.0020621
+"c:/Users/Gergo/Documents/escape-master/Content/Font/File.spritefont","c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Font/File.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.097244

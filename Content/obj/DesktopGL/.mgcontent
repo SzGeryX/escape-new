@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/buttonBg.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/guard.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/guardanimation.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/healthPoti.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/kard.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/maincharater.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/playeranimation.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/Tileset.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Characters/wizard.png</File>
+    <File>c:/Users/Gergo/Documents/escape-master/Content/Font/File.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

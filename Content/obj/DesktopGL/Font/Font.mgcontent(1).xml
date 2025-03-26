@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/bodi.zoltan/Documents/IKT/escape-master/Content/Font/File.spritefont</SourceFile>
+  <SourceTime>2025-02-27T09:40:28+01:00</SourceTime>
+  <DestFile>c:/Users/bodi.zoltan/Documents/IKT/escape-master/Content/bin/DesktopGL/Font/Font.xnb</DestFile>
+  <DestTime>2025-03-06T10:14:14.45125+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T18:05:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T18:05:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

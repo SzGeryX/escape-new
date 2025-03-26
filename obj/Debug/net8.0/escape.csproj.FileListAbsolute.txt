@@ -1,0 +1,173 @@
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\Content\Characters\wizard.xnb
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\Content\Font\Font.xnb
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\escape.exe
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\escape.deps.json
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\escape.runtimeconfig.json
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\escape.dll
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\escape.pdb
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\NVorbis.dll
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.csproj.AssemblyReference.cache
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.AssemblyInfoInputs.cache
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.AssemblyInfo.cs
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.csproj.CoreCompileInputs.cache
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.csproj.Up2Date
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.dll
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\refint\escape.dll
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.pdb
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.genruntimeconfig.cache
+C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\ref\escape.dll
+c:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.sourcelink.json
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\Content\Characters\healthPoti.xnb
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\Content\Characters\kard.xnb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.csproj.AssemblyReference.cache
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.AssemblyInfoInputs.cache
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.AssemblyInfo.cs
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.csproj.CoreCompileInputs.cache
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\refint\escape.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.pdb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\Content\Characters\healthPoti.xnb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\Content\Characters\kard.xnb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\Content\Characters\wizard.xnb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\Content\Font\Font.xnb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\escape.exe
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\escape.deps.json
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\escape.runtimeconfig.json
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\escape.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\escape.pdb
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\NVorbis.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.csproj.Up2Date
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\escape.genruntimeconfig.cache
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\obj\Debug\net8.0\ref\escape.dll
+C:\Users\bodi.zoltan\Documents\IKT\escape-master\bin\Debug\net8.0\Content\Characters\Tileset.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\healthPoti.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\kard.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\Tileset.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\wizard.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Font\Font.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\escape.exe
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\escape.deps.json
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\escape.runtimeconfig.json
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\escape.pdb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\MonoGame.Framework.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\NVorbis.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.csproj.AssemblyReference.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.AssemblyInfoInputs.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.AssemblyInfo.cs
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.csproj.CoreCompileInputs.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.csproj.Up2Date
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\refint\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.pdb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\escape.genruntimeconfig.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-master\obj\Debug\net8.0\ref\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\guard.png
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\guard.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\maincharater.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\playeranimation.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Characters\guardanimation.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-master\bin\Debug\net8.0\Content\Font\File.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\guard.png
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\guard.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\guardanimation.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\healthPoti.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\kard.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\maincharater.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\playeranimation.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\Tileset.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\wizard.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Font\File.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Font\Font.xnb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\escape.exe
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\escape.deps.json
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\escape.runtimeconfig.json
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\escape.dll
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\escape.pdb
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.csproj.AssemblyReference.cache
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.AssemblyInfoInputs.cache
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.AssemblyInfo.cs
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.csproj.CoreCompileInputs.cache
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.csproj.Up2Date
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.dll
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\refint\escape.dll
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.pdb
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.genruntimeconfig.cache
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\ref\escape.dll
+c:\Users\Gergo\Documents\escape-master\bin\Debug\net8.0\Content\Characters\buttonBg.xnb
+C:\Users\Gergo\Documents\escape-master\obj\Debug\net8.0\escape.sourcelink.json
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\guard.png
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\buttonBg.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\guard.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\guardanimation.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\healthPoti.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\kard.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\maincharater.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\playeranimation.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\Tileset.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Characters\wizard.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\Font\File.xnb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\escape.exe
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\escape.deps.json
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\escape.runtimeconfig.json
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\escape.pdb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\MonoGame.Framework.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\NVorbis.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.csproj.AssemblyReference.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.AssemblyInfoInputs.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.AssemblyInfo.cs
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.csproj.CoreCompileInputs.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.csproj.Up2Date
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\refint\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.pdb
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.genruntimeconfig.cache
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\ref\escape.dll
