@@ -171,3 +171,6 @@ D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\refint\escape.dll
 D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.pdb
 D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.genruntimeconfig.cache
 D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\ref\escape.dll
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\obj\Debug\net8.0\escape.sourcelink.json
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\music.ogg
+D:\Zoli\11.F\IKT\RPG Game\escape-new-master\bin\Debug\net8.0\Content\music.xnb

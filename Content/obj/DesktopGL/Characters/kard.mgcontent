@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/Gergo/Documents/escape-master/Content/Characters/kard.png</SourceFile>
-  <SourceTime>2025-03-25T16:51:48.576+01:00</SourceTime>
-  <DestFile>c:/Users/Gergo/Documents/escape-master/Content/bin/DesktopGL/Characters/kard.xnb</DestFile>
-  <DestTime>2025-03-25T18:19:38.4891266+01:00</DestTime>
+  <SourceFile>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/Characters/kard.png</SourceFile>
+  <SourceTime>2025-03-25T20:18:23+01:00</SourceTime>
+  <DestFile>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/bin/DesktopGL/Characters/kard.xnb</DestFile>
+  <DestTime>2025-04-02T20:38:55.0335041+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

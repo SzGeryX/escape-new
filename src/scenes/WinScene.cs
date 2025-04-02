@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
 namespace escape;
 
 public class WinScene : IScene
@@ -19,6 +20,8 @@ public class WinScene : IScene
     private const string quitBtnString = "Quit";
     private const string deathMsg = "You WON!";
     private const string restartBtnString = "Restart";
+
+    private Song winMusic;
 
     public WinScene(ContentManager contentManager, SceneManager sceneManager, GraphicsDeviceManager graphics, GraphicsDevice graphicsDevice)
     {
@@ -42,6 +45,10 @@ public class WinScene : IScene
     {
         buttonBg = Content.Load<Texture2D>("Characters/buttonBg");
         font = Content.Load<SpriteFont>("Font/File");
+
+        winMusic = Content.Load<Song>("music");
+
+        MediaPlayer.Play(winMusic);
     }
 
     public void Draw(SpriteBatch spriteBatch, GraphicsDevice graphicsDevice)

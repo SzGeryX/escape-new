@@ -33,6 +33,7 @@ public class GameScene : IScene {
     private const int pixel_tilesize = 64; 
     private const int num_tiles_per_row = 25;
     private bool isPlayerDead = false;
+    private bool isNpcDead = false;
 
     private Texture2D buttonBg;
     private Rectangle quitBtn;
@@ -163,10 +164,19 @@ public class GameScene : IScene {
             _spriteBatch.Draw(textureAtlas, drect, src, Color.White);
         }
 
-        if ( !isPlayerDead )
+        if (!isPlayerDead)
         {
-            player.Draw(_spriteBatch, Vector2.Zero);
-            npc.Draw(_spriteBatch);
+            if (!isNpcDead)
+            {
+            
+                player.Draw(_spriteBatch, Vector2.Zero);
+                npc.Draw(_spriteBatch);
+            }
+            else
+            {
+                npc.Draw(_spriteBatch);
+                player.Draw(_spriteBatch, Vector2.Zero);
+            }
         }
         else
         {
@@ -174,7 +184,7 @@ public class GameScene : IScene {
             SceneManager.AddScene(new EndScene(Content, SceneManager, _graphics, graphicsDevice));
         }
 
-        
+
 
         _spriteBatch.Draw(buttonBg, quitBtn, Color.Black);
 
@@ -188,7 +198,17 @@ public class GameScene : IScene {
 
             if (npc.IsPlayerNearby(player))
             {
-                isPlayerDead = true;
+                Random rnd = new Random();
+                int outcome = rnd.Next(2);
+
+                if (outcome == 0)
+                {
+                    isPlayerDead = true; 
+                }
+                else
+                {
+                    npc.MarkAsDead(); 
+                }
             }
         }
 

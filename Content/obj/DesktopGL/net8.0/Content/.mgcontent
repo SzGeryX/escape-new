@@ -14,8 +14,10 @@
     <File>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/Characters/Tileset.png</File>
     <File>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/Characters/wizard.png</File>
     <File>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/Font/File.spritefont</File>
+    <File>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/music.mp3</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

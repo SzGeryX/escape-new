@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/music.mp3</SourceFile>
+  <SourceTime>2025-04-02T20:37:38.9976213+02:00</SourceTime>
+  <DestFile>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/bin/DesktopGL/music.xnb</DestFile>
+  <DestTime>2025-04-02T20:38:56.6453799+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Zoli/11.F/IKT/RPG Game/escape-new-master/Content/bin/DesktopGL/music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
